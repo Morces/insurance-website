@@ -2,7 +2,7 @@
 background-image: url(hero-cover3.png);
 background-size: 100%;
 background-repeat: no-repeat;
-height: 100vh;
+height: 800px;
 color: white;
 
 }
@@ -38,7 +38,47 @@ padding-top: 10px;
 padding-top: 15px;
 }
 .buttons {
-padding-top: 50px;
-
+padding-top: 30px;
 }
+.learn {
+margin-left: 20px;
+background-color: transparent;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 25px;
+}
+.quote {
+background-color: #23A6F0;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 25px;
+}
+.service1 {
+border: 1px solid white;
+width: 250px;
+height: 180px;
+padding-left: 20px;
+}
+.service2 {
+border: 1px solid white;
+width: 250px;
+height: 180px;
+padding-left: 20px;
+}
+.service3 {
+border: 1px solid white;
+width: 250px;
+height: 180px;
+background-color: #23A6F0;
+padding-left: 20px;
+}
+.services {
+display: flex;
+justify-content: center;
+}
+
 
