@@ -117,11 +117,14 @@ padding-top: 200px;
 .user1 {
 border: 1px solid grey;
 width: 250px;
+height: 300px;
 justify-content: center;
-
+padding-left: 20px;
+border-radius: 5px;
 }
 .lady1 {
-height: 200px;
-padding: ;
+height: 140px;
+padding-left: 45px;
+padding-top: 30px;
 }
 
