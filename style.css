@@ -186,4 +186,8 @@ list-style: none;
 .trials {
 text-align: center;
 }
-
+.PREFS:hover {
+background-color: #252B42;
+color: white;
+margin-top: -20px;
+}
