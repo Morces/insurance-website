@@ -1,0 +1,35 @@
+.look {
+background-image: url(hero-cover3.png);
+background-size: 100%;
+background-repeat: no-repeat;
+height: 100vh;
+color: white;
+
+}
+.header {
+display: flex;
+justify-content: space-around;
+margin-top: 10px;
+height: 20px;
+}
+.first {
+padding-top: 150px;
+text-align: center;
+}
+.navbar {
+text-decoration: none;
+justify-content: space-between;
+padding-top: 32px;
+color: black;
+}
+.name {
+font-family: 'Montserrat';
+font-size: 25px;
+padding-top: 10px;
+}
+.login {
+padding-top: 15px;
+}
+
+
+}
