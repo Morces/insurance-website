@@ -16,11 +16,18 @@ height: 20px;
 padding-top: 150px;
 text-align: center;
 }
+.heading1 {
+font-size: 40px;
+font-weight: bold;
+}
+.text {
+font-size: 18px;
+}
 .navbar {
 text-decoration: none;
 justify-content: space-between;
 padding-top: 32px;
-color: black;
+color: white;
 }
 .name {
 font-family: 'Montserrat';
@@ -30,6 +37,8 @@ padding-top: 10px;
 .login {
 padding-top: 15px;
 }
-
+.buttons {
+padding-top: 50px;
 
 }
+
