@@ -164,21 +164,21 @@ background: linear-gradient(#4568ff 50% purple 50% );
 padding-top: 10px;
 }
 .input {
-padding-top: 7px;
-padding-bottom: 7px;
-margin-right: 1px;
+width: 300px;
+height: 29px;
 }
 .PREFS {
 border: 1px solid blue;
 width: 250px;
-height: 400px;
+height: 430px;
 justify-content: center;
-padding-left: 20px;
+padding-left: 10px;
 border-radius: 5px;
 }
 .FSP {
 display: flex;
 justify-content: center;
+padding-bottom: 100px;
 }
 ul {
 list-style: none;
@@ -190,4 +190,54 @@ text-align: center;
 background-color: #252B42;
 color: white;
 margin-top: -20px;
+}
+.freetrial {
+margin-top: 35px;
+margin-left: 55px;
+width: 150px;
+height: 35px;
+}
+.worldmap {
+height: 180px;
+}
+.branches {
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+margin-left: 100px;
+margin-right: 100px;
+background-color: #252B42;
+color: white;
+padding-top: 40px;
+height: 600px;
+}
+.family {
+height: 600px;
+}
+.appointments {
+width: 400px;
+height: 600px;
+background-color: white;
+padding-left: 40px;
+}
+.booking {
+display: flex;
+justify-content: center;
+}
+.form {
+text-align: center;
+}
+.value {
+  width: 300px;
+  height: 37px;
+}
+.BA {
+height: 37px;
+width: 300px;
+margin-top: 77px;
+}
+.consult {
+display: flex;
+justify-content: space-around;
+padding-top: 100px;
 }
