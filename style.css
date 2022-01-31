@@ -162,13 +162,14 @@ display: flex;
 justify-content: space-around;
 margin-left: 200px;
 margin-right: 200px;
-background-color: linear-gradient(90deg#4568ff 50% purple 50% );
+/* background-color: linear-gradient(90deg#4568ff 50% purple 50% ); */
 height: 60px;
 padding-top: 10px;
-border: 1px solid purple;
+background: linear-gradient(125deg, #124af7, #f30ee5 );
 }
 .post {
 padding-top: 10px;
+margin: 0 auto;
 }
 .input {
 width: 300px;
