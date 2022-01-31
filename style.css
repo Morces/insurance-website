@@ -98,6 +98,7 @@ color: white;
 .services {
 display: flex;
 justify-content: center;
+flex-wrap: wrap;
 column-gap: 40px;
 margin-top: -155px;
 margin-bottom: 100px;
@@ -112,16 +113,20 @@ text-align: center;
 .levels {
 display: flex;
 justify-content: center;
+flex-wrap: wrap;
 padding-top: 50px;
 padding-bottom: 50px;
 background-color: white;
 }
 .subtitle {
 text-align: center;
-width: 390px;
-padding-top: 100px;
-padding-left: 500px;
-padding-bottom: 50px;
+/* width: 390px; */
+/* padding-top: 100px; */
+/* padding-left: 500px; */
+/* padding-bottom: 50px; */
+}
+.all-pricing {
+margin-top: 50px;
 }
 .user {
 border: 1px solid grey;
@@ -142,17 +147,22 @@ padding-left: 40px;
 } 
 .users {
 display: flex;
+flex-wrap: wrap;
 justify-content: center;
-column-gap: 50px;
+gap: 50px;
 }
 .logos {
 display: flex;
-justify-content: center;
+/* justify-content: center; */
 justify-content: space-between;
-margin-left: 300px;
-margin-right: 300px;
+flex-wrap: wrap;
+margin-left: 50px;
+margin-right: 50px;
+/* margin: 0 0 50px 50px ; */
 padding-bottom: 50px;
+gap: 30px;
 padding-top: 150px;
+
 }
 .logo {
 height: 30px;
@@ -192,6 +202,7 @@ font-weight: bolder;
 display: flex;
 justify-content: center;
 padding-bottom: 100px;
+flex-wrap: wrap;
 }
 ul {
 list-style: none;
@@ -263,6 +274,7 @@ margin-top: 20px;
 padding-top: 20px;
 padding-left: 30px;
 padding-right: 50px;
+flex-wrap: wrap;
 }
 .byme {
 display: flex;
